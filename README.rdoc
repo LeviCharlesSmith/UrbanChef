@@ -1,28 +1,5 @@
-== README
+== Urban Chef
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Urban chef is a website for allowing users to find local chefs that will cater to home deliveries. Urban chef allows a user to browse menus created by local chefs, choose what they want to eat for the week and confirm the order with the chef, at which point the chef will be notified of the order, and will recieve information like the users name and address for delivery. Chefs will also have the customers address pre-populated onto a google map for easy delivery route planning.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+http://urbanchef.herokuapp.com/
